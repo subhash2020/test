@@ -3,5 +3,15 @@
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1</version>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.3.2</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+  
 </project>
